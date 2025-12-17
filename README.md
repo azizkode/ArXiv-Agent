@@ -267,6 +267,20 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+⚖️ License & Acknowledgements
+This project is open-sourced under the MIT License.
+
+⚠️ Usage Note regarding ArXiv API
+This tool allows you to interact with the ArXiv API and download papers. Please use this tool responsibly and ethically:
+
+Respect Rate Limits: The code includes built-in concurrency limits (Semaphore) to be polite to ArXiv's servers. Do not modify these to perform aggressive scraping, or your IP may be banned by ArXiv.
+
+ArXiv Terms of Use: Users must adhere to ArXiv's Terms of Use.
+
+Data Licensing: The metadata retrieved is typically CC0. However, the PDFs and Source files downloaded are subject to the individual licenses selected by the authors (e.g., CC-BY, arXiv perpetual non-exclusive license). This tool does not grant you copyright over the downloaded content.
+
+Disclaimer: This tool is for personal research and educational purposes. The author is not responsible for any misuse or IP bans resulting from the use of this software.
+
 ---
 
 ## 🙏 Acknowledgments
