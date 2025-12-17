@@ -49,6 +49,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
