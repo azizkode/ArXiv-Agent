@@ -1,0 +1,27 @@
+{
+    "name": "Your Name",
+    "research_interests": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing"
+    ],
+    "publications": [
+        {
+            "title": "Your Publication Title 1",
+            "abstract": "Your abstract here. This helps the AI understand your research background and generate more relevant search queries."
+        },
+        {
+            "title": "Your Publication Title 2",
+            "abstract": "Another abstract. The more publications you add, the better the AI can understand your research profile."
+        }
+    ],
+    "preferred_venues": [
+        "ICLR",
+        "NeurIPS",
+        "ICML",
+        "AAAI",
+        "ACL",
+        "EMNLP"
+    ]
+}
+
