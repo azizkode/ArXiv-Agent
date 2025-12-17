@@ -1,4 +1,4 @@
-# 🕵️ ArXiv Agent v7.0 - Your Intelligent Research Assistant
+# 🕵️ ArXiv Agent v1.0 - Your Intelligent Research Assistant
 
 <div align="center">
 
@@ -183,7 +183,7 @@ The email includes:
 ## 🏗️ Architecture
 
 ```
-ArXiv Agent v7.0
+ArXiv Agent v1.0
 ├── UserProfileManager      # Loads and manages user research profile
 ├── ArXivPaperFetcher       # Crawls ArXiv with mixed search
 ├── PaperProcessor          # AI-powered analysis with contextual matching
@@ -230,7 +230,7 @@ Tested with:
 ## 📝 Example Output
 
 ```
---- ArXiv Agent v7.0 Started (Personalized Profile Edition) ---
+--- ArXiv Agent v1.0 Started (Personalized Profile Edition) ---
 [*] ✅ 成功加载用户画像
 [*] 🧠 [画像] 正在根据您的发表记录联想搜索词...
     -> 🧠 AI联想词: ['transformer AND protein', 'multimodal learning', 'MLLM applications']
