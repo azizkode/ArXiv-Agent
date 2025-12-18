@@ -1,6 +1,6 @@
 # Release Notes
 
-## Version 7.0 - Personalized Profile Edition
+## Version 1.0 - Personalized Profile Edition
 
 ### 🎉 Major Features
 
