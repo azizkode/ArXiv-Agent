@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ArXiv智能科研助理 v7.0 (Personalized Profile Edition)
-新增功能：
+ArXiv智能科研助理 v1.0 (Personalized Profile Edition)
+功能：
 1. 深度源码扫描：使用正确的ArXiv源码地址 (https://arxiv.org/src/...)
 2. 同时检测会议模板和GitHub链接（从LaTeX源码中挖掘）
 3. 区分摘要中的GitHub链接和源码中发现的隐藏链接
